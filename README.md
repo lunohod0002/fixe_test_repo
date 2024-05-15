@@ -1,0 +1,1 @@
+Test Java projecy with git rebase 
